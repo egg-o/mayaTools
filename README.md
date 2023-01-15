@@ -7,3 +7,4 @@ A set of maya tools
 Current Contents
 - multiDelete [c]
 - uiTestBoxCreate [c]
+- ribbonSpineDeformer [ip]
